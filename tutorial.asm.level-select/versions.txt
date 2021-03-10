@@ -1,2 +1,2 @@
-1.1.1-1.unitypackage
+1.1.1-1.unitypackage,
 1.1.1-2.unitypackage
